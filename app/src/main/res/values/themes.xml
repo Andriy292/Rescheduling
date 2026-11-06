@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.Xcedy" parent="android:Theme.Material.NoActionBar" />
+</resources>
